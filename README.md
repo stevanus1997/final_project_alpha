@@ -14,7 +14,7 @@ Initially, Olist focused on aggressive customer acquisition but has since shifte
 
 Despite significant growth, Olist faces ongoing customer churn challenges. The average annual churn rate in e-commerce ranges from 20% to 25%, and without effective retention strategies, Olist risks losing substantial revenue.
 
-Olist has successfully acquired over ninety thousand customers with an average acquisition cost of ~$104 per customer. However, initial data indicates that only 15–20% of these customers make repeat purchases, suggesting a churn risk of over 30%.
+While Olist has successfully acquired more than ninety thousand customers through substantial marketing investments—spending ~$104 per customer—initial data shows that only ~7% of these customers make a repeat purchase. This highlights a high churn risk, potentially exceeding 30%, making retention efforts crucial for long-term profitability.
 
 To mitigate this risk, Olist invests in customer retention efforts. However, not all customers have the same likelihood of churning, making a uniform approach inefficient. A data-driven strategy allows for targeted interventions, such as:
 
