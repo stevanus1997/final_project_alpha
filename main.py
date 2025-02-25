@@ -3,8 +3,8 @@ import streamlit as st
 from helper import map_region
 import pandas as pd
 
-filename = 'Model_RF.pkl'
-model = pickle.load(open(filename, 'rb'))
+# filename = 'Model_RF.pkl'
+model = pickle.load(open('Model_RF.pkl', 'rb'))
 
 
 def main():
