@@ -149,4 +149,9 @@ Since Olist is a relatively new e-commerce platform, defining churn should not s
 - `os`: System-level file handling.
 - `warnings`: For managing warning messages.
 
+### Links
+
+- `streamlit`: [Streamlit](https://brazillian-olist-churn-prediction.streamlit.app/)
+- `tablue`: [Tableau](https://public.tableau.com/app/profile/latif.ramadhan/viz/AlphaTeam-Olist/A_Overview?publish=yes)
+
 ---
